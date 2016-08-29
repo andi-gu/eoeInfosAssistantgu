@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\grain\\Desktop\\eoeInfosAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\file_explorer.png",
+        "source": "C:\\Users\\grain\\Desktop\\eoeInfosAssistant\\app\\src\\main\\res\\drawable\\file_explorer.png"
+    },
+    {
+        "merged": "C:\\Users\\grain\\Desktop\\eoeInfosAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\software.png",
+        "source": "C:\\Users\\grain\\Desktop\\eoeInfosAssistant\\app\\src\\main\\res\\drawable\\software.png"
+    },
+    {
+        "merged": "C:\\Users\\grain\\Desktop\\eoeInfosAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\files.png",
+        "source": "C:\\Users\\grain\\Desktop\\eoeInfosAssistant\\app\\src\\main\\res\\drawable\\files.png"
+    },
+    {
+        "merged": "C:\\Users\\grain\\Desktop\\eoeInfosAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\grain\\Desktop\\eoeInfosAssistant\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\grain\\Desktop\\eoeInfosAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\file_doc.png",
+        "source": "C:\\Users\\grain\\Desktop\\eoeInfosAssistant\\app\\src\\main\\res\\drawable\\file_doc.png"
+    },
+    {
+        "merged": "C:\\Users\\grain\\Desktop\\eoeInfosAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\running.png",
+        "source": "C:\\Users\\grain\\Desktop\\eoeInfosAssistant\\app\\src\\main\\res\\drawable\\running.png"
+    },
+    {
+        "merged": "C:\\Users\\grain\\Desktop\\eoeInfosAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hardware.png",
+        "source": "C:\\Users\\grain\\Desktop\\eoeInfosAssistant\\app\\src\\main\\res\\drawable\\hardware.png"
+    },
+    {
+        "merged": "C:\\Users\\grain\\Desktop\\eoeInfosAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\directory.png",
+        "source": "C:\\Users\\grain\\Desktop\\eoeInfosAssistant\\app\\src\\main\\res\\drawable\\directory.png"
+    },
+    {
+        "merged": "C:\\Users\\grain\\Desktop\\eoeInfosAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\file_root.png",
+        "source": "C:\\Users\\grain\\Desktop\\eoeInfosAssistant\\app\\src\\main\\res\\drawable\\file_root.png"
+    },
+    {
+        "merged": "C:\\Users\\grain\\Desktop\\eoeInfosAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\system.png",
+        "source": "C:\\Users\\grain\\Desktop\\eoeInfosAssistant\\app\\src\\main\\res\\drawable\\system.png"
+    },
+    {
+        "merged": "C:\\Users\\grain\\Desktop\\eoeInfosAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\file_paranet.png",
+        "source": "C:\\Users\\grain\\Desktop\\eoeInfosAssistant\\app\\src\\main\\res\\drawable\\file_paranet.png"
+    }
+]

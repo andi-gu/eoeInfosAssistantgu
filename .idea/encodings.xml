@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/eoemobile/infos_assistant/FSExplorer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/eoemobile/infos_assistant/Hardware.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/eoemobile/infos_assistant/Runing.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/eoemobile/infos_assistant/ShowInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/eoemobile/infos_assistant/Software.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/eoemobile/infos_assistant/System.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/eoemobile/infos_assistant/eoeInfosAssistant.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/eoemobile/infos_assistant/util/FetchData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/eoemobile/infos_assistant/util/PreferencesUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/eoemobile/infos_assistant/util/ToolHelper.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
