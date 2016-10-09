@@ -38,6 +38,7 @@ public class eoeInfosAssistant extends Activity implements OnItemClickListener {
 		itemlist.setAdapter(notes);
 		itemlist.setOnItemClickListener(this);
 		itemlist.setSelection(0);
+
 	}
 
 	private List<Map<String, Object>> buildListForSimpleAdapter() {
