@@ -50,6 +50,7 @@ public class eoeInfosAssistant extends Activity implements OnItemClickListener {
 		map.put("desc", "查看设备系统版本,运营商及其系统信息.");
 		map.put("img", R.drawable.system);
 		list.add(map);
+		//--
 
 		map = new HashMap<String, Object>();
 		map.put("name", "硬件信息");
