@@ -1,19 +1,19 @@
 package com.eoemobile.infos_assistant;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
+import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
-import android.widget.AdapterView.OnItemClickListener;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 public class eoeInfosAssistant extends Activity implements OnItemClickListener {
 	private static final String TAG = "eoeInfosAssistant";
@@ -27,6 +27,7 @@ public class eoeInfosAssistant extends Activity implements OnItemClickListener {
 		setContentView(R.layout.main);
 		itemlist = (ListView) findViewById(R.id.itemlist);
 		refreshListItems();
+		//.....
 	}
 
 	private void refreshListItems() {
